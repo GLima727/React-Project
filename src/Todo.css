@@ -10,6 +10,7 @@
 }
 
 .checkbox {
+    margin-top: 0.001vh;
     height: 3vh;
     width: 3vh;
     background-color: #eee;
