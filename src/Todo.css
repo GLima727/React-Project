@@ -1,0 +1,21 @@
+.tasks {
+    font-size: 3vw;
+    border: 0.4vh solid rgb(255, 255, 255);
+    border-radius: 2vh;
+    margin-bottom: 1vh;
+}
+
+.tasks:hover {
+    transform: scale(1.07) perspective(0.1vh);
+}
+
+.checkbox {
+    height: 3vh;
+    width: 3vh;
+    background-color: #eee;
+    
+}
+
+.container:hover input ~ .checkbox {
+    background-color: #ccc;
+  }
