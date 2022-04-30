@@ -1,8 +1,15 @@
 .tasks {
-    font-size: 3vw;
-    border: 0.4vh solid rgb(255, 255, 255);
+    font-size: 4vw;
+    border: 0.4vh solid rgb(242, 242, 248);
     border-radius: 2vh;
     margin-bottom: 1vh;
+    color:rgb(211, 240, 253);
+    white-space: nowrap;
+    overflow:hidden;
+    align-items: center;
+    width: fit-content;
+    max-width: 100%;
+    margin: 0 auto 1vh;
 }
 
 .tasks:hover {
