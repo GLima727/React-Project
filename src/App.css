@@ -148,7 +148,7 @@
 .listTitle {
   color: #ced4d6;
   margin-bottom: 3vh;
-  border: #ffffff solid 5px;
+  border: #ffffff solid 0px;
   border-radius: 20%;
   background-color: transparent;
 }
