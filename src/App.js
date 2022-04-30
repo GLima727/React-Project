@@ -89,7 +89,7 @@ function handleClearAllTodos(e){
       <header className="App-header">
 
         <div className="lists" id='toDoList'> 
-          <div className='listTitle'>TASKS <span style ={ {fontSize: '4.7vw',position:'relative', top:'-1.9vh'}} >TO DO</span></div>
+          <div className='listTitle'>TASKS <br></br> <span style ={ {fontSize: '4.7vw',position:'relative', top:'-1.9vh'}} >TO DO</span></div>
 
           <TodoList todos={todos} toggleTodo={toggleTodo} />
         </div>
